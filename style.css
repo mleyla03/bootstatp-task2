@@ -1,0 +1,12 @@
+nav
+{
+    background-color:#343A40 ;
+}
+.main h1
+{
+    font-size: 70px;
+    font-weight: 100;
+}
+.navbars:hover{
+    color: white !important;
+}
